@@ -64,6 +64,7 @@ void main() {
   twoStacks.pushStack2(3);
   twoStacks.pushStack2(4);
   twoStacks.pushStack2(5);
+  twoStacks.pushStack2(6);
 
   // Print the initial stacks
   print('Initial Stacks:');
